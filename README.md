@@ -1,3 +1,23 @@
 # gender_based_justice
 
-## Description
+## Topic and Purpose of the Analysis
+
+### Topic
+Gender-based Justice
+
+### Purpose of the Analysis
+Despite many countries claiming that much has been done to create a gender neutral society, we have to ask: Are developed countries truly egalitarian in terms of womens’ rights? How big is the gap between the developed and developing world?
+
+These are some of the questions that this project seeks to answer by conducting a machine learning model that will take into account features such as enacted laws, citizens’ attitudes, etc. By the end of this project, we want to accomplish a clear classification of how different countries are positioned in terms of equality and provide a model that could predict these countries' future development of womens’ rights.
+
+## Data Source
+* The data used for this project comes from the Gender, Institutions and Development Database (GID-DB) 2019
+* This data provides researchers and policymakers with key data on gender-based discrimination in social institutions
+* The data assists in analyzing women’s empowerment and understanding gender gaps in other key areas of development
+* It contains data on 180 countries and territories with information on legal, cultural and traditional practices that discriminate against women and girls
+
+## Questions to be Answered
+* Are developed countries truly egalitarian in terms of womens’ rights? 
+* How big is the gap between the developed and developing world?
+* What are the main variables that lead to a more egalitarian society?
+* How do the attitudes and laws of a country respectively impact gender-based justice?
