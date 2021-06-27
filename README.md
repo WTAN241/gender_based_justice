@@ -21,3 +21,10 @@ These are some of the questions that this project seeks to answer by conducting 
 * How big is the gap between the developed and developing world?
 * What are the main variables that lead to a more egalitarian society?
 * How do the attitudes and laws of a country respectively impact gender-based justice?
+
+## Description of Communication Protocols
+Our main communication tool will be Slack, which we will be using for sharing important documentation, dividing the tasks and responsibilities and providing quick updates. 
+
+We will be meeting once per week in addition to the two weekly classes. These meetings will be used to discuss our progress, obstacles and next steps.
+
+We will also join office hours from time to time to ask questions and come up with better solutions.
