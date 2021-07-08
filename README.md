@@ -28,3 +28,5 @@ Our main communication tool will be Slack, which we will be using for sharing im
 We will be meeting once per week in addition to the two weekly classes. These meetings will be used to discuss our progress, obstacles and next steps.
 
 We will also join office hours from time to time to ask questions and come up with better solutions.
+
+## Outline of the Project
