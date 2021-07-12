@@ -30,3 +30,16 @@ We will be meeting once per week in addition to the two weekly classes. These me
 We will also join office hours from time to time to ask questions and come up with better solutions.
 
 ## Outline of the Project
+* Preliminary Data Preprocessing
+    - Columns with null values were removed
+    - Key for each country names were created
+* Preliminary Feature Engineering and feature selection
+* Splitting Data into Training and Testing Sets
+* Model Choice: We’ll be using the Random Forest model for machine learning
+    - Limitations
+        - Very little control on what the model does
+        - It can tend to overfit so hyperparameters should be tuned
+    - Benefits
+        - Serves as both classification and the regression task
+        - Training and predicting speed is faster
+        - Can handle large data set with higher dimensionality
