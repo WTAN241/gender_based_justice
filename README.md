@@ -44,5 +44,5 @@ We will also join office hours from time to time to ask questions and come up wi
         * Training and predicting speed is faster
         * Can handle large data set with higher dimensionality
 
-# 🔗 [Tableau Dashboard](https://public.tableau.com/app/profile/sohyun.choi/viz/ChildMarriagePracticeDashboard/ChildMarriagePracticeDashboard?publish=yes)
+## 🔗 [Tableau Dashboard](https://public.tableau.com/app/profile/sohyun.choi/viz/ChildMarriagePracticeDashboard/ChildMarriagePracticeDashboard?publish=yes)
 
